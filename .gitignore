@@ -1,0 +1,7 @@
+.idea/
+*.pyc
+waterlily/settings/__init__.py
+waterlily/wsgi/__init__.py
+db.sqlite3
+waterlily/settings/dev.py
+waterlily/settings/production.py
